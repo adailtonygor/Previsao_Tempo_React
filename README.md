@@ -1,4 +1,4 @@
-Para iniciar o projeto use o comando:  npm spart
+Para iniciar o projeto use o comando:  npm start
 
 
 Vai abrir na porta [http://localhost:3000](http://localhost:3000) no seu navegador.
